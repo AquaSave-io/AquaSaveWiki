@@ -8,14 +8,14 @@ AquaBank represents a revolutionary innovation in the realm of sustainability an
 
 In collaboration with AquaReturn, co-founder of AquaSave, AquaBank has been developed as the smart and more advanced version of this device. AquaBank incorporates cutting-edge technologies for efficient and conscious water management:
 
-**Wireless Communication**: Essential for integration into the Internet of Things (IoT), it facilitates data transmission and a more intuitive interaction with the device. AquaBank utilizes:
-  - **BLE (Bluetooth Low Energy)**: Allows connection with the device via a mobile app for configurations and updates, in addition to providing detailed incident reports.
-  - **WiFi**: Enables the transmission of sensor data and operations to cloud services such as AWS IoT for analysis and the generation of useful information, as well as remote control of the device through the mobile app or virtual assistants like Alexa.
-  - **LoRaWAN**: Ensures Internet connectivity in areas where access to WiFi networks is limited, using the Helium network to offer global coverage at a low cost.
+- **Wireless Communication**: Essential for integration into the Internet of Things (IoT), it facilitates data transmission and a more intuitive interaction with the device. AquaBank utilizes:
+- **BLE (Bluetooth Low Energy)**: Allows connection with the device via a mobile app for configurations and updates, in addition to providing detailed incident reports.
+- **WiFi**: Enables the transmission of sensor data and operations to cloud services such as AWS IoT for analysis and the generation of useful information, as well as remote control of the device through the mobile app or virtual assistants like Alexa.
+- **LoRaWAN**: Ensures Internet connectivity in areas where access to WiFi networks is limited, using the Helium network to offer global coverage at a low cost.
   
-**Advanced Sensorization**: This functionality transforms the perception and management of water consumption, making users more aware of their impact:
-  - **Flow and Temperature Sensors**: Allow for sending personalized recommendations to promote more efficient water use.
-  - **Pressure and Water Quality Sensors**: Facilitate the early detection of leaks and deficiencies in the supply, ensuring not only savings but also the sustainability of the water resource.
+- **Advanced Sensorization**: This functionality transforms the perception and management of water consumption, making users more aware of their impact:
+- **Flow and Temperature Sensors**: Allow for sending personalized recommendations to promote more efficient water use.
+- **Pressure and Water Quality Sensors**: Facilitate the early detection of leaks and deficiencies in the supply, ensuring not only savings but also the sustainability of the water resource.
 
 AUTOMATIC ADVANTAGES OF THE EQUIPMENT
 

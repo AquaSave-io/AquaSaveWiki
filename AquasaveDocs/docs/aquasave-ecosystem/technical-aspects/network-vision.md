@@ -22,9 +22,10 @@ sidebar_position: 1
 
     The AquaSave ecosystem is a tapestry of interlinked components, each integral to the conservation process. 
     
-    Sophisticated sensors provide a granular view of water use, while advanced data centers handle the analytics, turning data into knowledge. This continuous stream of information flows seamlessly to user-friendly applications, delivering insights and control to the fingertips of users. 
-    
-    Through this synchronized system, AquaSave merges proactive water management with innovative technology, fostering informed decision-making for a greener tomorrow.
+
+Sophisticated sensors provide a granular view of water use, while advanced data centers handle the analytics, turning data into knowledge. This continuous stream of information flows seamlessly to user-friendly applications, delivering insights and control to the fingertips of users. 
+
+Through this synchronized system, AquaSave merges proactive water management with innovative technology, fostering informed decision-making for a greener tomorrow.
     
 
     TODO: Añadir gráfico
@@ -38,68 +39,68 @@ sidebar_position: 1
     AquaSave incorporates a range of specialized devices:
 
    1.1 [**AquaBank**](#aquabank-depin)
-      - This device is the cornerstone of home water and energy savings. By regulating water flow within the domestic network, it provides real-time data on water quality and consumption, making it the first device we're rolling out in the AquaSave lineup.        
-      - Currently in its final phase of development. 
+- This device is the cornerstone of home water and energy savings. By regulating water flow within the domestic network, it provides real-time data on water quality and consumption, making it the first device we're rolling out in the AquaSave lineup.        
+- Currently in its final phase of development. 
   
         TODO: imagen AquaBank
 
    1.2 **AquaMeter**  
-      - The AquaMeter offers users a granular look at water usage. Its design is geared towards identifying leaks and measuring water pressure, which is pivotal for efficient water management and conservation efforts.
-      - Next in line for development.
+- The AquaMeter offers users a granular look at water usage. Its design is geared towards identifying leaks and measuring water pressure, which is pivotal for efficient water management and conservation efforts.
+- Next in line for development.
 
    1.3 **AquaSense**  
-      - For environmental monitoring, the AquaSense is unparalleled. It detects critical water parameters like dissolved oxygen, oxidation-reduction potential, pH, conductivity, and temperature, ensuring that the water quality remains optimal for use and conservation.
-      - Next in line for development
+- For environmental monitoring, the AquaSense is unparalleled. It detects critical water parameters like dissolved oxygen, oxidation-reduction potential, pH, conductivity, and temperature, ensuring that the water quality remains optimal for use and conservation.
+- Next in line for development
 
     These devices form an integrated network that not only collects data but also communicates with the AquaSave platform to enhance water conservation strategies across the board.  
 
 2. **Data Processing Centers**
-   - Data Processing Centers are the computational hubs of the AquaSave system, where all data from sensors and devices across the network are collected and analyzed. These centers are equipped with state-of-the-art computing resources designed to manage and process large volumes of data, making them pivotal in the system’s ability to handle Big Data.
+- Data Processing Centers are the computational hubs of the AquaSave system, where all data from sensors and devices across the network are collected and analyzed. These centers are equipped with state-of-the-art computing resources designed to manage and process large volumes of data, making them pivotal in the system’s ability to handle Big Data.
 
-   - At these centers, sophisticated algorithms and machine learning techniques are employed to sift through and interpret the massive datasets. This data processing involves the use of artificial intelligence (AI) to extract actionable insights and detect complex patterns that human analysis could miss. The centers utilize AI to predict potential system inefficiencies and leaks, optimize water usage, and support proactive maintenance and strategic decision-making.
+- At these centers, sophisticated algorithms and machine learning techniques are employed to sift through and interpret the massive datasets. This data processing involves the use of artificial intelligence (AI) to extract actionable insights and detect complex patterns that human analysis could miss. The centers utilize AI to predict potential system inefficiencies and leaks, optimize water usage, and support proactive maintenance and strategic decision-making.
 
-   - The integration of AI and Big Data capabilities ensures that AquaSave’s Data Processing Centers are not just repositories of information, but dynamic systems capable of learning and evolving. This helps in continuously improving water management strategies and operational efficiencies across the network.
+- The integration of AI and Big Data capabilities ensures that AquaSave’s Data Processing Centers are not just repositories of information, but dynamic systems capable of learning and evolving. This helps in continuously improving water management strategies and operational efficiencies across the network.
  
 3. **User Interface**  
    This section outlines the various interfaces provided by AquaSave to enhance user interaction and management of water resources. For detailed usage guides, please refer to the [User Guides section](#user-guides).
 
    3.1 [**AquaSave App**](#user-guides/aquasave-app)
-      - The AquaSave App provides a user-friendly interface designed to empower users with the tools they need for effective water management.  
+- The AquaSave App provides a user-friendly interface designed to empower users with the tools they need for effective water management.  
     Available on both Android and iOS platforms, the app's intuitive layout and accessible features make it easy for users of all technical abilities to navigate, ensuring a wide accessibility across different devices.
   
-   - Through the app, users can interact directly with their water usage data. This includes:
-     - Real-time information related to temperature and other important data collected by AquaBank, providing an intuitive and accessible interface for end-users, allowing them to stay informed about their water consumption and efficiency.
-     - Historical statistics, displaying data based on past records stored in a specialized IoT cloud environment.
-     - Scheduling features that allow users to program when they want their water to be heated, ensuring hot water availability according to their personal needs and schedules.
+- Through the app, users can interact directly with their water usage data. This includes:
+- Real-time information related to temperature and other important data collected by AquaBank, providing an intuitive and accessible interface for end-users, allowing them to stay informed about their water consumption and efficiency.
+- Historical statistics, displaying data based on past records stored in a specialized IoT cloud environment.
+- Scheduling features that allow users to program when they want their water to be heated, ensuring hot water availability according to their personal needs and schedules.
 
    3.2 [**Map Explorer for Users**](#user-guides/map-dashboard-users)
-      - This feature allows users to visualize real-time and historical data on water usage across different geographies, publicly available from all devices registered on the blockchain.  
+- This feature allows users to visualize real-time and historical data on water usage across different geographies, publicly available from all devices registered on the blockchain.  
     The Map Explorer helps users understand broader water usage trends and their individual impact.
          
    3.3 [**Dashboard Pro**](#user-guides/dashboard-pro)
-      - An advanced version of the standard dashboard designed for institutions and companies. This dashboard offers enhanced analytical tools, deeper data insights, and more granular control over water management systems. Additionally, users can manage their water footprint certificates, allowing for detailed tracking and reporting of their water conservation efforts.
+- An advanced version of the standard dashboard designed for institutions and companies. This dashboard offers enhanced analytical tools, deeper data insights, and more granular control over water management systems. Additionally, users can manage their water footprint certificates, allowing for detailed tracking and reporting of their water conservation efforts.
 
 
 4. **Cloud Technology**
-   - Cloud technology plays a crucial role in the AquaSave system, providing a robust platform for secure data storage and management. Utilizing the cloud allows for the centralized collection and analysis of data from across the network. This technology ensures that all data, whether it's from AquaBank, AquaMeter, or AquaSense devices, is securely stored in highly protected data centers that employ advanced encryption methods to prevent unauthorized access.
+- Cloud technology plays a crucial role in the AquaSave system, providing a robust platform for secure data storage and management. Utilizing the cloud allows for the centralized collection and analysis of data from across the network. This technology ensures that all data, whether it's from AquaBank, AquaMeter, or AquaSense devices, is securely stored in highly protected data centers that employ advanced encryption methods to prevent unauthorized access.
 
-   - The benefits of using cloud technology in the AquaSave system are manifold. Accessibility is one of the primary advantages; users and administrators can access data anytime and from anywhere, as long as they have internet connectivity. This accessibility enhances the flexibility and efficiency of managing water resources. Additionally, cloud security measures are top-notch, with continuous updates to safeguard against potential cyber threats and data breaches. These security protocols ensure that sensitive data related to water usage and management remains protected at all times.
+- The benefits of using cloud technology in the AquaSave system are manifold. Accessibility is one of the primary advantages; users and administrators can access data anytime and from anywhere, as long as they have internet connectivity. This accessibility enhances the flexibility and efficiency of managing water resources. Additionally, cloud security measures are top-notch, with continuous updates to safeguard against potential cyber threats and data breaches. These security protocols ensure that sensitive data related to water usage and management remains protected at all times.
 
 5. [**Blockchain Technology**](#technical-aspects/choosing-solana)  
    AquaSave utilizes Solana's blockchain to enhance its water conservation efforts. This includes handling real-time data transactions and managing IoT devices efficiently. Solana's capabilities such as high transaction throughput, low costs, rapid confirmation times, scalability, sustainability, and a rich ecosystem make it an ideal choice for AquaSave's growing needs.  
    
    Uses of Solana in AquaSave:
 
-   - [**AQC Token**](#token-economy/what-is-aqc)
+- [**AQC Token**](#token-economy/what-is-aqc)
   The AQC token incentivizes sustainable water usage. Users can earn, use, or trade these tokens, promoting an economy based on water conservation.
 
-   - Device Registration
+- Device Registration
   Devices within the AquaSave network are registered on the Solana blockchain, enhancing transaction security and ensuring verifiable connectivity for each device.
 
-   - [Rewarding Sustainable Consumption](#getting-started/proof-sustainable-consumption)
+- [Rewarding Sustainable Consumption](#getting-started/proof-sustainable-consumption)
   The "Proof of Sustainable Consumption" algorithm rewards users based on their water conservation efforts. Rewards are transparently recorded and distributed through Solana, encouraging ongoing sustainable practices.
 
-   - [Water Footprint Certificates](#waterfootprint)
+- [Water Footprint Certificates](#waterfootprint)
   Solana facilitates the issuance of water footprint certificates, which are immutable records that help validate and promote environmental sustainability.
 
 

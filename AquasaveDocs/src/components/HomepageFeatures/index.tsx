@@ -10,32 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Save water by earning money',
+    Svg: require('@site/static/img/aqsdrop.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        AquaSave is an ecosystem that uses IoT and blockchain technologies, and relies on community participation to analyze and track the status of the planet’s water resources.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Innovative technology for a sustainable world',
+    Svg: require('@site/static/img/struct.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+    Thanks to AquaSave’s range of water-related products, significant reduction in water consumption and waste is expected and this will enable more effective policies to be implemented, along with the provision of cryptocurrency rewards.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'DePin Ecosystem',
+    Svg: require('@site/static/img/struct.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+      Aquasave exemplifies how DePIN can revolutionize water management. Using decentralized sensors and blockchain technology, Aquasave collects and analyzes real-time data on water usage and quality. This enables more efficient water resource management by detecting leaks, addressing specific needs in different areas, and optimizing water distribution.
       </>
     ),
   },

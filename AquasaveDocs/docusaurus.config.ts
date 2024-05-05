@@ -66,41 +66,41 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'gettingStarted',
           position: 'left',
           label: 'Getting started',
         },
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'depin',
           position: 'left',
           label: 'DEPIN',
         },
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'ecosystem',
           position: 'left',
           label: 'Ecosystem',
         },
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'economy',
           position: 'left',
           label: 'Economy',
         },
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'roadmap',
           position: 'left',
           label: 'Roadmap',
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/AquaSave-io/',
           label: 'GitHub',
           position: 'right',
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://aquasave.io/',
           label: 'Website',
           position: 'right',
         },
@@ -113,8 +113,24 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Getting started',
+              to: '/docs/getting-started',
+            },
+            {
+              label: 'DePin',
+              to: '/docs/aquabank-revolution-depin/revolution-depin',
+            },
+            {
+              label: 'Ecosystem',
+              to: '/docs/category/aquasave-ecosystem',
+            },
+            {
+              label: 'Economy',
+              to: '/docs/category/token-economy',
+            },
+            {
+              label: 'Roadmap',
+              to: '/docs/future-water/roadmap',
             },
           ],
         },
@@ -122,16 +138,24 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Instagram',
+              href: 'https://www.instagram.com/aquasave.io/',
+            },
+            {
+              label: 'Medium',
+              href: 'https://medium.com/@aquabanknetwork',
+            },
+            {
+              label: 'YouTube',
+              href: 'https://www.youtube.com/channel/UC6rBKDof8qy-kJv5wGRkLBg',
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.com/invite/gQSmUGsUtB',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/AquaSaveCrypto',
             },
           ],
         },
@@ -139,12 +163,12 @@ const config: Config = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
+              label: 'Website',
+              href: 'https://aquasave.io/',
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/AquaSave-io/',
             },
           ],
         },

@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # ROADMAP
 
-### **Q1 2024**
+### **Q1 2024**
 + Airdrop Missions: Launching interactive missions to engage the community and promote early adoption. This missions will extend over the 2024 year. 
 ### **Q2 2024**
 + Devices Pre-Sale: Opening pre-sales for the AquaBank Saver devices, targeting early adopters.
