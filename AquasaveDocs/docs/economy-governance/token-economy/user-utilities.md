@@ -11,6 +11,8 @@ AquaCoin AQC$ is classified as a utility token within the AquaSave ecosystem. Th
 ### Burn & Mint Dynamics
 - This process requires users interested in accessing exclusive services to periodically possess and burn a specific amount of AQC$ tokens to maintain access to these valuable advantages. This mechanism not only ensures a constant demand for the token but also contributes to its long-term value.
 
+![Tokemics](/img/tokenomics/map-util.png)
+
 ### Token Utilities and Uses in the AquaSave Ecosystem
 
 - **Rewards for Data Value**: Users earn AQC$ for providing valuable data from their AquaSave devices, which enhances network efficiency and service quality. This is fundamental as it directly relates to the primary utility of the data within the ecosystem.

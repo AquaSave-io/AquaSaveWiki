@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 # AquaSave Foundation
 
-The AquaSave Foundation emerges as a non-profit entity and establishes itself as a fundamental pillar in the conservation of our planet's most valuable resource: water. Its philosophy is based on creating a decentralized network of data, driven by the AquaSave Network and its innovative Aquabank devices. These devices not only represent public goods by being owned and operated by their contributors but also symbolize a move towards sustainable and participatory water management.
+The **AquaSave Foundation** emerges as a non-profit entity and establishes itself as a fundamental pillar in the conservation of our planet's most valuable resource: water. Its philosophy is based on creating a decentralized network of data, driven by the AquaSave Network and its innovative Aquabank devices. These devices not only represent public goods by being owned and operated by their contributors but also symbolize a move towards sustainable and participatory water management.
 
 ### Foundation Philosophy
 
@@ -15,12 +15,12 @@ The mission of the AquaSave Foundation is to lead the global fight against water
 
 ### Structure
 
-Legally constituted as a Cayman Foundation Company Limited by Guarantee, the foundation is organized around three fundamental committees: Technical, Data Quality, and Economic. This structure ensures effective management and rigorous oversight of the foundation's activities, promoting continuous innovation and data integrity.
+Legally constituted as a **Cayman Foundation Company Limited by Guarantee**, the foundation is organized around three fundamental committees: Technical, Data Quality, and Economic. This structure ensures effective management and rigorous oversight of the foundation's activities, promoting continuous innovation and data integrity.
 
 ### Responsibility
 
-The primary responsibility of the AquaSave Foundation is the global expansion of the AQUASAVE Network and the sustainable management of the network's tokenomics. Over time, it will assume key roles currently performed by AquaSave INC, including maintaining the decentralized data network and developing open technologies aimed at water saving.
+The primary responsibility of the AquaSave Foundation is the global expansion of the **AQUASAVE Network** and the sustainable management of the network's tokenomics. Over time, it will assume key roles currently performed by AquaSave INC, including maintaining the decentralized data network and developing open technologies aimed at water saving.
 
 ### Partnerships
 
-AquaSave INC acts as the principal distributor of Aquabank devices, using consumption data to design and market water and energy-saving solutions. These collaborations are fundamental to the foundation's mission, as they facilitate the direct implementation of technologies that promote resource conservation among end consumers.
+**AquaSave INC** acts as the principal distributor of Aquabank devices, using consumption data to design and market water and energy-saving solutions. These collaborations are fundamental to the foundation's mission, as they facilitate the direct implementation of technologies that promote resource conservation among end consumers.

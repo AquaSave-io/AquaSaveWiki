@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Referral Programs
 
+![Referral](/img/future/referral.png)
+
 ## Introduction to the Referral Program
 
 At AquaSave, we value and recognize our users' contributions to the growth of our community. The Referral Program is designed to reward those who help expand the AquaSave network by encouraging friends, acquaintances, and neighbors to install AquaBank in their homes.

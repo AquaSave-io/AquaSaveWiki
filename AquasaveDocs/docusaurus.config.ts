@@ -78,12 +78,6 @@ const config: Config = {
         },
         {
           type: 'docSidebar',
-          sidebarId: 'ecosystem',
-          position: 'left',
-          label: 'Ecosystem',
-        },
-        {
-          type: 'docSidebar',
           sidebarId: 'economy',
           position: 'left',
           label: 'Economy',
@@ -119,10 +113,6 @@ const config: Config = {
             {
               label: 'DePin',
               to: '/docs/aquabank-revolution-depin/revolution-depin',
-            },
-            {
-              label: 'Ecosystem',
-              to: '/docs/category/aquasave-ecosystem',
             },
             {
               label: 'Economy',

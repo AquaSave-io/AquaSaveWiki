@@ -5,6 +5,8 @@ sidebar_position: 1
 # AquaCoin (AQC$)
 ## AQC Token: AquaCoin (AQC$)
 
+![Aquacoin token](/img/tokenomics/aqs.png) 
+
 AquaCoin AQC$ is the native cryptocurrency of the AquaSave ecosystem, designed to be the economic engine and catalyst for growth and sustainability within the AquaSave network. As a utility token, AQC$ serves several critical roles within the ecosystem:
 
 ### Key Roles of AQC$

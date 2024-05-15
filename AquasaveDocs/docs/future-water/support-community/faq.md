@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # FAQ
 
-# Frequently Asked Questions (FAQs)
+## Frequently Asked Questions (FAQs)
 
 ## Does AquaBank require any special requirements for installation?
 No, AquaBank does not require any special installation requirements. It integrates seamlessly with your existing water heating system. A single device placed under the sink can serve all bathroom taps, making it both efficient and convenient.

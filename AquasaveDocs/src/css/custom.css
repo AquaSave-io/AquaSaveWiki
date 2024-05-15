@@ -7,7 +7,7 @@
 /* You can override the default Infima variables here. */
 :root {
   --test--1: hsl(201, 42%, 19%);
-  --ifm-color-primary: hsl(147, 49%, 35%);
+  --ifm-color-primary:  hsl(170, 84%, 45%);
   --ifm-color-primary-dark: hsl(147, 49%, 32%);
   --ifm-color-primary-darker: hsl(147, 49%, 30%);
   --ifm-color-primary-darkest: hsl(147, 49%, 25%);
