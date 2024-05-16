@@ -56,7 +56,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/logodocs.jpg',
     navbar: {
       title: 'Aquasave',
       logo: {
@@ -74,7 +74,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'depin',
           position: 'left',
-          label: 'DEPIN',
+          label: 'DePIN',
         },
         {
           type: 'docSidebar',
@@ -108,7 +108,7 @@ const config: Config = {
           items: [
             {
               label: 'Getting started',
-              to: '/docs/getting-started',
+              to: '/docs/getting-started/what-is-aquasave',
             },
             {
               label: 'DePin',

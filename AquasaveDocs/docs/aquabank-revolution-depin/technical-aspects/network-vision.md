@@ -34,7 +34,7 @@ The AquaSave network deploys an array of smart sensors and devices, each selecte
 
 AquaSave incorporates a range of specialized devices:
 
-1.1 [**AquaBank**](#aquabank-depin)
+1.1 [**AquaBank**](/docs/aquabank-revolution-depin/aquabank/overview)
 - This device is the cornerstone of home water and energy savings. By regulating water flow within the domestic network, it provides real-time data on water quality and consumption, making it the first device we're rolling out in the AquaSave lineup.        
 - Currently in its final phase of development. 
   
@@ -58,9 +58,9 @@ These devices form an integrated network that not only collects data but also co
 - The integration of AI and Big Data capabilities ensures that AquaSave’s Data Processing Centers are not just repositories of information, but dynamic systems capable of learning and evolving. This helps in continuously improving water management strategies and operational efficiencies across the network.
  
 3. **User Interface**  
-This section outlines the various interfaces provided by AquaSave to enhance user interaction and management of water resources. For detailed usage guides, please refer to the [User Guides section](#user-guides).
+This section outlines the various interfaces provided by AquaSave to enhance user interaction and management of water resources. For detailed usage guides, please refer to the [User Guides section](/docs/economy-governance/token-economy/user-utilities).
 
-3.1 [**AquaSave App**](#user-guides/aquasave-app)
+3.1 [**AquaSave App**](/docs/aquabank-revolution-depin/app)
 - The AquaSave App provides a user-friendly interface designed to empower users with the tools they need for effective water management.  
 Available on both Android and iOS platforms, the app's intuitive layout and accessible features make it easy for users of all technical abilities to navigate, ensuring a wide accessibility across different devices.
   
@@ -69,12 +69,12 @@ Available on both Android and iOS platforms, the app's intuitive layout and acce
 - Historical statistics, displaying data based on past records stored in a specialized IoT cloud environment.
 - Scheduling features that allow users to program when they want their water to be heated, ensuring hot water availability according to their personal needs and schedules.
 
-3.2 [**Map Explorer for Users**](#user-guides/map-dashboard-users)
+3.2 [**Map Explorer for Users**](/docs/aquabank-revolution-depin/explore-map)
 - This feature allows users to visualize real-time and historical data on water usage across different geographies, publicly available from all devices registered on the blockchain.  
 The Map Explorer helps users understand broader water usage trends and their individual impact.
 
 
-3.3 [**Dashboard Pro**](#user-guides/dashboard-pro)
+3.3 [**Dashboard Pro**](/docs/aquabank-revolution-depin/dashboard)
 - An advanced version of the standard dashboard designed for institutions and companies. This dashboard offers enhanced analytical tools, deeper data insights, and more granular control over water management systems. Additionally, users can manage their water footprint certificates, allowing for detailed tracking and reporting of their water conservation efforts.
 
 
@@ -83,12 +83,12 @@ The Map Explorer helps users understand broader water usage trends and their ind
 
 - The benefits of using cloud technology in the AquaSave system are manifold. Accessibility is one of the primary advantages; users and administrators can access data anytime and from anywhere, as long as they have internet connectivity. This accessibility enhances the flexibility and efficiency of managing water resources. Additionally, cloud security measures are top-notch, with continuous updates to safeguard against potential cyber threats and data breaches. These security protocols ensure that sensitive data related to water usage and management remains protected at all times.
 
-5. [**Blockchain Technology**](#technical-aspects/choosing-solana)  
+5. [**Blockchain Technology**](/docs/aquabank-revolution-depin/technical-aspects/choosing-solana)  
 AquaSave utilizes Solana's blockchain to enhance its water conservation efforts. This includes handling real-time data transactions and managing IoT devices efficiently. Solana's capabilities such as high transaction throughput, low costs, rapid confirmation times, scalability, sustainability, and a rich ecosystem make it an ideal choice for AquaSave's growing needs.  
    
 Uses of Solana in AquaSave:
 
-- [**AQC Token**](/docs/token-economy/what-is-aqc)
+- [**AQC Token**](/docs/economy-governance/token-economy/what-aqc)
 The AQC token incentivizes sustainable water usage. Users can earn, use, or trade these tokens, promoting an economy based on water conservation.
 
 - Device Registration
@@ -97,7 +97,7 @@ The AQC token incentivizes sustainable water usage. Users can earn, use, or trad
 - [Rewarding Sustainable Consumption](/docs/getting-started/posc)
 The "Proof of Sustainable Consumption" algorithm rewards users based on their water conservation efforts. Rewards are transparently recorded and distributed through Solana, encouraging ongoing sustainable practices.
 
-- [Water Footprint Certificates](/docs/aquasave-ecosystem/waterfootprint)
+- [Water Footprint Certificates](/docs/aquabank-revolution-depin/wfc/overview)
 Solana facilitates the issuance of water footprint certificates, which are immutable records that help validate and promote environmental sustainability.
 
 

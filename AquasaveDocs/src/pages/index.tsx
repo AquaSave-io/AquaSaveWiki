@@ -19,7 +19,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/category/getting-started">
+            to="/docs/getting-started/what-is-aquasave">
             Start here
           </Link>
         </div>
@@ -33,7 +33,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Aquasave documentation">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

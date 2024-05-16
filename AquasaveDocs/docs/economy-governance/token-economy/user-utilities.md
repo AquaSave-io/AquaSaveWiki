@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# USER UTILITIES 
+# User Utilities
 
 ## User Utilities: AquaCoin as a Utility Token
 
