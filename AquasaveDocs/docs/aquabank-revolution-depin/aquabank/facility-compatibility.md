@@ -16,9 +16,17 @@ sidebar_position: 3
 - **Height**: 125 mm useful, 139 mm total
 - **Weight**: 3.4 kg (including cable)
 
+![Peripheric map](/img/depin/3dmap.png)
+
+![Water flow](/img/depin/temperatureSchema.png)
+
 In its location, there must be at least 19 cm free from the shut-off valves to the bottom of the sink.
 
+![Horizontal space photo](/img/depin/horizontal.png)
+
 Also, at least 14 cm is needed from the wall to the drain pipe of the sink.
+
+![Vertical space photo](/img/depin/vertical.png)
 
 ### POWER SUPPLY
 
@@ -87,6 +95,8 @@ You should record the value of the minimum start-up flow, which you can read in 
 
 It is advisable to install AquaBank Saver in the most frequently used bathroom(s) in the house, and if it is the furthest one, its effect will cover all intermediate hot water faucets.
 
+![3 flows infographic](/img/depin/3flows.png)
+
 - **Case A**: If there is sufficient space above the stopcocks:
     - AquaBank Saver does not need to be wall-mounted if it is secured over the two shut-off valves of the sink. 
     - Close the stopcocks under the sink and disconnect the hoses.
@@ -95,10 +105,17 @@ It is advisable to install AquaBank Saver in the most frequently used bathroom(s
     - Connect the faucet hoses to the AquaBank top fittings, making sure not to cross the hot and cold water lines. Fully open the stopcocks, shut-off valves, and faucets to purge the system of air.
     - For different distances, two AquaBank Saver hoses should be used to carry water from the wall valves to the lower water couplings of the device. If other hoses from the market are used, we cannot guarantee the proper functioning of the device. Tighten the couplings with a 19mm wrench to prevent water leakage without damaging them.
 
+
+![3 flows infographic](/img/depin/6.png)
+![3 flows infographic](/img/depin/Aquabankl.png)
+
+
 - **Case B**: If space is limited or you wish to install the device inside the sink cabinet:
     - Repeat the steps in case A to close the stopcocks and disconnect the hoses.
     - Use AquaBank specific extension hoses to reach the desired location of the fixture.
     - Use the template provided to mark and then install AquaBank on the wall or inside the lavatory cabinet.
+
+![3 flows infographic](/img/depin/Aquabankss.png)
 
 ## 8. Commissioning
 
