@@ -7,6 +7,8 @@ sidebar_position: 3
 
 **Dear Customer:** Before purchasing your AquaBank Saver, it is essential that you read this compatibility documentation and instructions to ensure the correct operation as soon as you receive the AquaBank Saver.
 
+![peripheric](/img/aquabank/installation-guide.png)
+
 ## Compatibility with Your Water Heating System
 
 AquaBank Saver **is compatible** with the following individual water heating systems:
