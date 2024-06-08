@@ -5,10 +5,11 @@ sidebar_position: 5
 
 ## AquaBank Saver Dimensions
 
-- **Length**: 225 mm
-- **Width**: 130 mm
-- **Height**: 125 mm useful, 139 mm total
+- **Length**: 225 mm (8.86 inches)
+- **Width**: 130 mm (5.12 inches)
+- **Height**: 125 mm (4.92 inches) useful, 139 mm (5.47 inches) total
 - **Weight**: 3.4 kg (including cable)
+
 
 ![Peripheric map](/img/depin/3dmap.png)
 

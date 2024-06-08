@@ -15,11 +15,12 @@ AquaBank is designed for easy self-installation. You can install it yourself by 
 ## Where is it recommended to install AquaBank?
 It is most convenient to install an AquaBank under the bathroom sink. This location is typically the furthest from the boiler and where hot water takes the longest to arrive, resulting in the most water wastage. By installing it under the sink, AquaBank can effectively reduce this wastage and provide quicker access to hot water.
 
-## What dimensions should the space for installing AquaBank have?
+## What dimensions are required for installing AquaBank?
+
 To install AquaBank, ensure that the installation space accommodates the following device dimensions:
-- Length: 21.8 cm (8.58 inches)
-- Width: 13 cm (5.12 inches)
-- Height: 10.6 cm (4.17 inches)
+- **Length**: 225 mm (8.86 inches)
+- **Width**: 130 mm (5.12 inches)
+- **Height**: 125 mm (4.92 inches) useful, 139 mm (5.47 inches) total
 These dimensions provide the necessary space for optimal installation and function of the AquaBank device.
 
 ## How long is the cable of the AquaBank device?

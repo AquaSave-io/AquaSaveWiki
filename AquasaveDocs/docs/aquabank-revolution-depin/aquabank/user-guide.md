@@ -23,8 +23,6 @@ It is advisable to install AquaBank Saver in the most frequently used bathroom(s
 
 It is advisable to install AquaBank Saver in the most frequently used bathroom(s) in the house, and if it is the furthest one, its effect will cover all intermediate hot water faucets.
 
-![3 flows infographic](/img/depin/3flows.png)
-
 In its location, there must be at least 19 cm free from the shut-off valves to the bottom of the sink.
 
 ![Horizontal space photo](/img/depin/horizontal.png)
@@ -42,7 +40,6 @@ Also, at least 14 cm is needed from the wall to the drain pipe of the sink.
     - For different distances, two AquaBank Saver hoses should be used to carry water from the wall valves to the lower water couplings of the device. If other hoses from the market are used, we cannot guarantee the proper functioning of the device. Tighten the couplings with a 19mm wrench to prevent water leakage without damaging them.
 
 
-![3 flows infographic](/img/depin/6.png)
 ![3 flows infographic](/img/depin/Aquabankl.png)
 
 
